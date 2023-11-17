@@ -11,4 +11,12 @@ public class StickyPlatform : MonoBehaviour
             collision.gameObject.transform.SetParent(transform);
         }
     }
+
+    void OnCollisionExit(Collision collision)
+    {
+        if (collision.gameObject.name == "Player")
+        {
+            collision.gameObject.transform.SetParent(null);
+        }
+    }
 }
