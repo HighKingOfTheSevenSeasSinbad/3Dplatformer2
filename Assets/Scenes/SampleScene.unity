@@ -32763,6 +32763,7 @@ GameObject:
   - component: {fileID: 1229841973}
   - component: {fileID: 1229841974}
   - component: {fileID: 1229841975}
+  - component: {fileID: 1229841976}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -32930,6 +32931,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   orbsText: {fileID: 1381036200}
+--- !u!114 &1229841976
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1229841967}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 918eeb627fa94a7468b3a9c00175e750, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  anim: {fileID: 0}
+  LayerMask:
+    serializedVersion: 2
+    m_Bits: 0
+  grounded: 1
 --- !u!1001 &1240742761
 PrefabInstance:
   m_ObjectHideFlags: 0
