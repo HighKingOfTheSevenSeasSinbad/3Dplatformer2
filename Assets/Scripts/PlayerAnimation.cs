@@ -8,6 +8,7 @@ public class PlayerAnimation : MonoBehaviour
     private Rigidbody rb2;
     public LayerMask LayerMask;
     public bool grounded;
+    public float ground = 0.3f;
 
 
     void Start()
@@ -28,14 +29,14 @@ public class PlayerAnimation : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space) && this.grounded)
         {
-            this.rb2.AddForce(Vector3.up * 10, ForceMode.Impulse);
+            this.rb2.AddForce(Vector3.up * 7, ForceMode.Impulse);
         }
 
     }
 
     private void Grounded()
     {
-        if (Physics.CheckSphere(this.transform.position + Vector3.down, 0.2f, LayerMask))
+        if (Physics.CheckSphere(this.transform.position + Vector3.down, ground, LayerMask))
         {
             this.grounded = true;
         }
@@ -55,7 +56,7 @@ public class PlayerAnimation : MonoBehaviour
         Vector3 movement = this.transform.forward * verticalAxis + this.transform.right * horizontalAxis;
         movement.Normalize();
 
-        this.transform.position += movement * 0.02f;
+        this.transform.position += movement * 0.015f;
 
         this.anim.SetFloat("vertical", verticalAxis);
         this.anim.SetFloat("horizontal", horizontalAxis);
