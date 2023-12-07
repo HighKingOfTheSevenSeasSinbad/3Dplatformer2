@@ -39,10 +39,12 @@ public class PlayerAnimation : MonoBehaviour
         if (Physics.CheckSphere(this.transform.position + Vector3.down, ground, LayerMask))
         {
             this.grounded = true;
+            anim.SetBool("grounded", true);
         }
         else
         {
             this.grounded = false;
+            anim.SetBool("grounded", false);
         }
 
         this.anim.SetBool("jump", !this.grounded);

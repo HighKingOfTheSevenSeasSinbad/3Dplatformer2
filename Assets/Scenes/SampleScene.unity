@@ -31196,7 +31196,7 @@ Animator:
   m_Controller: {fileID: 9100000, guid: 6fbb21a9d8fb0c643b2db59653113f0b, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
-  m_ApplyRootMotion: 0
+  m_ApplyRootMotion: 1
   m_LinearVelocityBlending: 0
   m_StabilizeFeet: 0
   m_WarningMessage: 
@@ -32826,23 +32826,6 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.01, y: 0.01, z: 0.01}
   m_Center: {x: -0.000000029802322, y: 0, z: 0}
---- !u!1 &1229841967 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2734474281466965312, guid: dac12e54fc5858749a53ce196889684a, type: 3}
-  m_PrefabInstance: {fileID: 8276090854191066250}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1229841977
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1229841967}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2ced35c53b8a06a4ea46a5bebf6ecac9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &1240742761
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -36437,6 +36420,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 49213572851242888, guid: dac12e54fc5858749a53ce196889684a, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 954092158181218239, guid: dac12e54fc5858749a53ce196889684a, type: 3}
       propertyPath: m_Layer
       value: 6
@@ -36497,6 +36484,10 @@ PrefabInstance:
       propertyPath: orbsText
       value: 
       objectReference: {fileID: 1381036200}
+    - target: {fileID: 3654851999044407484, guid: dac12e54fc5858749a53ce196889684a, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3878984216643084742, guid: dac12e54fc5858749a53ce196889684a, type: 3}
       propertyPath: anim
       value: 
@@ -36513,13 +36504,25 @@ PrefabInstance:
       propertyPath: LayerMask.m_Bits
       value: 64
       objectReference: {fileID: 0}
+    - target: {fileID: 5076598347535879707, guid: dac12e54fc5858749a53ce196889684a, type: 3}
+      propertyPath: m_Interpolate
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5076598347535879707, guid: dac12e54fc5858749a53ce196889684a, type: 3}
+      propertyPath: m_IsKinematic
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 9013757774470286253, guid: dac12e54fc5858749a53ce196889684a, type: 3}
       propertyPath: jumpForce
-      value: 0.0001
+      value: -2
       objectReference: {fileID: 0}
     - target: {fileID: 9013757774470286253, guid: dac12e54fc5858749a53ce196889684a, type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9013757774470286253, guid: dac12e54fc5858749a53ce196889684a, type: 3}
+      propertyPath: movementSpeed
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9123123561314900991, guid: dac12e54fc5858749a53ce196889684a, type: 3}
       propertyPath: m_LocalPosition.y
@@ -36531,9 +36534,6 @@ PrefabInstance:
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 2734474281466965312, guid: dac12e54fc5858749a53ce196889684a, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1229841977}
     - targetCorrespondingSourceObject: {fileID: 1931483253476620171, guid: dac12e54fc5858749a53ce196889684a, type: 3}
       insertIndex: -1
       addedObject: {fileID: 677698463}
@@ -36568,11 +36568,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 714861135253255113, guid: 42f4dce491d52f84f8133ba43f49fcef, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -5.8164773
+      value: -5.96
       objectReference: {fileID: 0}
     - target: {fileID: 714861135253255113, guid: 42f4dce491d52f84f8133ba43f49fcef, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -4.2285714
+      value: -4.201
       objectReference: {fileID: 0}
     - target: {fileID: 714861135253255113, guid: 42f4dce491d52f84f8133ba43f49fcef, type: 3}
       propertyPath: m_LocalRotation.w
