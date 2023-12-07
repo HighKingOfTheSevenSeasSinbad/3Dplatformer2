@@ -10,6 +10,8 @@ public class PlayerAnimation : MonoBehaviour
     public bool grounded;
     public float ground = 0.3f;
 
+    public GameObject ground_checker;
+
 
     void Start()
     {
@@ -36,7 +38,7 @@ public class PlayerAnimation : MonoBehaviour
 
     private void Grounded()
     {
-        if (Physics.CheckSphere(this.transform.position + Vector3.down, ground, LayerMask))
+        if (Physics.CheckSphere(ground_checker.transform.position, ground, LayerMask))
         {
             this.grounded = true;
             anim.SetBool("grounded", true);
