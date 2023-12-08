@@ -272,6 +272,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Orb Fragment (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 6513682013173432790, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7337125189847506274, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -337,6 +341,10 @@ PrefabInstance:
     - target: {fileID: 3207734624703976114, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_Name
       value: Orb Fragment (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6513682013173432790, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7337125189847506274, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_RootOrder
@@ -465,6 +473,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Orb Fragment (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 6513682013173432790, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7337125189847506274, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -577,6 +589,10 @@ PrefabInstance:
     - target: {fileID: 3388253980783399008, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
       propertyPath: m_Name
       value: Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 4485479507237870889, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6639707355349268414, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
       propertyPath: speed
@@ -948,6 +964,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Orb Fragment (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 6513682013173432790, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7337125189847506274, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -1094,6 +1114,10 @@ PrefabInstance:
     - target: {fileID: 3388253980783399008, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
       propertyPath: m_Name
       value: Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 4485479507237870889, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6639707355349268414, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
       propertyPath: speed
@@ -1368,6 +1392,10 @@ PrefabInstance:
     - target: {fileID: 3388253980783399008, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
       propertyPath: m_Name
       value: Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 4485479507237870889, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6639707355349268414, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
       propertyPath: speed
@@ -2163,7 +2191,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e99f7055f4118fb43a99d3a9e131946d, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e99f7055f4118fb43a99d3a9e131946d, type: 3}
       propertyPath: m_LocalScale.x
@@ -29138,6 +29166,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 5094785284699081602, guid: 42f4dce491d52f84f8133ba43f49fcef, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29165,6 +29197,10 @@ PrefabInstance:
     - target: {fileID: 3207734624703976114, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_Name
       value: Orb Fragment (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6513682013173432790, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7337125189847506274, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_RootOrder
@@ -29279,6 +29315,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy
       objectReference: {fileID: 0}
+    - target: {fileID: 4485479507237870889, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6639707355349268414, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
       propertyPath: speed
       value: 200
@@ -29336,6 +29376,10 @@ PrefabInstance:
     - target: {fileID: 3207734624703976114, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_Name
       value: Orb Fragment (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6513682013173432790, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7337125189847506274, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_RootOrder
@@ -29397,6 +29441,10 @@ PrefabInstance:
     - target: {fileID: 3207734624703976114, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_Name
       value: Orb Fragment (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6513682013173432790, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7337125189847506274, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_RootOrder
@@ -29695,6 +29743,10 @@ PrefabInstance:
     - target: {fileID: 3388253980783399008, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
       propertyPath: m_Name
       value: Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 4485479507237870889, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6639707355349268414, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
       propertyPath: speed
@@ -30450,6 +30502,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Orb Fragment (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 6513682013173432790, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7337125189847506274, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -30510,6 +30566,10 @@ PrefabInstance:
     - target: {fileID: 3207734624703976114, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_Name
       value: Orb Fragment (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6513682013173432790, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7337125189847506274, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_RootOrder
@@ -30779,6 +30839,10 @@ PrefabInstance:
     - target: {fileID: 3388253980783399008, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
       propertyPath: m_Name
       value: Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 4485479507237870889, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6639707355349268414, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
       propertyPath: speed
@@ -31070,7 +31134,7 @@ Transform:
   - {fileID: 1942624859}
   - {fileID: 702800932}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &594511178 stripped
 Transform:
@@ -31209,6 +31273,11 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!4 &677698464 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1262645504545041713, guid: dac12e54fc5858749a53ce196889684a, type: 3}
+  m_PrefabInstance: {fileID: 8276090854191066250}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &696187678 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1599460788556334421, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
@@ -31456,6 +31525,10 @@ PrefabInstance:
     - target: {fileID: 3207734624703976114, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_Name
       value: Orb Fragment (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6513682013173432790, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7337125189847506274, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_RootOrder
@@ -32207,6 +32280,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Orb Fragment (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 6513682013173432790, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7337125189847506274, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -32492,6 +32569,33 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -1984987933520197390, guid: e99f7055f4118fb43a99d3a9e131946d, type: 3}
+--- !u!1 &1123970293 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7309701181368549910, guid: dac12e54fc5858749a53ce196889684a, type: 3}
+  m_PrefabInstance: {fileID: 8276090854191066250}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1123970294 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3427072423579031741, guid: dac12e54fc5858749a53ce196889684a, type: 3}
+  m_PrefabInstance: {fileID: 8276090854191066250}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1123970299
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1123970293}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8429b1f9ee979db4c92e40298c73622d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lookAt: {fileID: 1974826370}
+  Player: {fileID: 677698464}
+  Camera: {fileID: 1123970294}
+  distance: 5
+  sensivity: 10
 --- !u!1001 &1129445533
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -32754,6 +32858,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy
       objectReference: {fileID: 0}
+    - target: {fileID: 4485479507237870889, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6639707355349268414, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
       propertyPath: speed
       value: 200
@@ -32895,6 +33003,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy
       objectReference: {fileID: 0}
+    - target: {fileID: 4485479507237870889, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6639707355349268414, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
       propertyPath: speed
       value: 200
@@ -32957,6 +33069,10 @@ PrefabInstance:
     - target: {fileID: 3207734624703976114, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_Name
       value: Orb Fragment (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6513682013173432790, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7337125189847506274, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_RootOrder
@@ -33164,6 +33280,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 5094785284699081602, guid: 42f4dce491d52f84f8133ba43f49fcef, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -33186,6 +33306,10 @@ PrefabInstance:
     - target: {fileID: 3207734624703976114, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_Name
       value: Orb Fragment (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6513682013173432790, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7337125189847506274, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_RootOrder
@@ -33300,6 +33424,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy
       objectReference: {fileID: 0}
+    - target: {fileID: 4485479507237870889, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6639707355349268414, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
       propertyPath: speed
       value: 200
@@ -33336,6 +33464,10 @@ PrefabInstance:
     - target: {fileID: 3207734624703976114, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_Name
       value: Orb Fragment (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6513682013173432790, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7337125189847506274, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_RootOrder
@@ -33450,6 +33582,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy
       objectReference: {fileID: 0}
+    - target: {fileID: 4485479507237870889, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6639707355349268414, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
       propertyPath: speed
       value: 200
@@ -33481,6 +33617,10 @@ PrefabInstance:
     - target: {fileID: 3207734624703976114, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_Name
       value: Orb Fragment (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6513682013173432790, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7337125189847506274, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_RootOrder
@@ -33600,7 +33740,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 155, y: 0}
+  m_AnchoredPosition: {x: 155, y: -53}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1381036200
@@ -34318,6 +34458,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 5094785284699081602, guid: 42f4dce491d52f84f8133ba43f49fcef, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -34568,6 +34712,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Orb Fragment (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 6513682013173432790, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7337125189847506274, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -34612,6 +34760,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9027456204132597688, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9027456204132597688, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_DrawHalo
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -34628,6 +34784,10 @@ PrefabInstance:
     - target: {fileID: 3207734624703976114, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_Name
       value: Orb Fragment (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6513682013173432790, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7337125189847506274, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_RootOrder
@@ -34730,6 +34890,10 @@ PrefabInstance:
     - target: {fileID: 3207734624703976114, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_Name
       value: Orb Fragment (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6513682013173432790, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7337125189847506274, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_RootOrder
@@ -34887,6 +35051,10 @@ PrefabInstance:
     - target: {fileID: 3207734624703976114, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_Name
       value: Orb Fragment (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6513682013173432790, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7337125189847506274, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_RootOrder
@@ -35218,6 +35386,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy
       objectReference: {fileID: 0}
+    - target: {fileID: 4485479507237870889, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6639707355349268414, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
       propertyPath: speed
       value: 200
@@ -35344,6 +35516,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Orb Fragment (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 6513682013173432790, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7337125189847506274, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -35469,6 +35645,10 @@ PrefabInstance:
     - target: {fileID: 3207734624703976114, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_Name
       value: Orb Fragment (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6513682013173432790, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7337125189847506274, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_RootOrder
@@ -35757,6 +35937,11 @@ Transform:
   m_Father: {fileID: 1533266807}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &1974826370 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1014152166564593634, guid: dac12e54fc5858749a53ce196889684a, type: 3}
+  m_PrefabInstance: {fileID: 8276090854191066250}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1981166735
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35825,6 +36010,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy
       objectReference: {fileID: 0}
+    - target: {fileID: 4485479507237870889, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6639707355349268414, guid: e7ace739d674c4a4d9734cf49527984e, type: 3}
       propertyPath: speed
       value: 200
@@ -35892,6 +36081,10 @@ PrefabInstance:
     - target: {fileID: 3207734624703976114, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_Name
       value: Orb Fragment (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6513682013173432790, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7337125189847506274, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_RootOrder
@@ -36090,6 +36283,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Orb Fragment (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 6513682013173432790, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7337125189847506274, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -36151,6 +36348,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Orb Fragment (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 6513682013173432790, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7337125189847506274, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -36193,6 +36394,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7337125189847506274, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9027456204132597688, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_DrawHalo
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -36368,6 +36573,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Orb Fragment
       objectReference: {fileID: 0}
+    - target: {fileID: 6513682013173432790, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7337125189847506274, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -36412,6 +36621,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9027456204132597688, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_DrawHalo
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9027456204132597688, guid: ab5981d72ee63d14aba12ff54ca1c773, type: 3}
+      propertyPath: m_Intensity
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -36435,7 +36652,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1014152166564593634, guid: dac12e54fc5858749a53ce196889684a, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1014152166564593634, guid: dac12e54fc5858749a53ce196889684a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -36489,6 +36706,26 @@ PrefabInstance:
       propertyPath: orbsText
       value: 
       objectReference: {fileID: 1381036200}
+    - target: {fileID: 3427072423579031741, guid: dac12e54fc5858749a53ce196889684a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.89
+      objectReference: {fileID: 0}
+    - target: {fileID: 3427072423579031741, guid: dac12e54fc5858749a53ce196889684a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -16.39
+      objectReference: {fileID: 0}
+    - target: {fileID: 3427072423579031741, guid: dac12e54fc5858749a53ce196889684a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99787265
+      objectReference: {fileID: 0}
+    - target: {fileID: 3427072423579031741, guid: dac12e54fc5858749a53ce196889684a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.06519353
+      objectReference: {fileID: 0}
+    - target: {fileID: 3427072423579031741, guid: dac12e54fc5858749a53ce196889684a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 7.476
+      objectReference: {fileID: 0}
     - target: {fileID: 3654851999044407484, guid: dac12e54fc5858749a53ce196889684a, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -36521,6 +36758,18 @@ PrefabInstance:
       propertyPath: m_IsKinematic
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6734750120236861673, guid: dac12e54fc5858749a53ce196889684a, type: 3}
+      propertyPath: field of view
+      value: 26.991467
+      objectReference: {fileID: 0}
+    - target: {fileID: 6734750120236861673, guid: dac12e54fc5858749a53ce196889684a, type: 3}
+      propertyPath: m_projectionMatrixMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7363296161816732231, guid: dac12e54fc5858749a53ce196889684a, type: 3}
+      propertyPath: stopNaNPropagation
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 9013757774470286253, guid: dac12e54fc5858749a53ce196889684a, type: 3}
       propertyPath: jumpForce
       value: -2
@@ -36546,6 +36795,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 1931483253476620171, guid: dac12e54fc5858749a53ce196889684a, type: 3}
       insertIndex: -1
       addedObject: {fileID: 677698463}
+    - targetCorrespondingSourceObject: {fileID: 7309701181368549910, guid: dac12e54fc5858749a53ce196889684a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1123970299}
   m_SourcePrefab: {fileID: 100100000, guid: dac12e54fc5858749a53ce196889684a, type: 3}
 --- !u!1001 &8415785217691142015
 PrefabInstance:
